@@ -1,0 +1,10 @@
+c:\users\darcy\documents\visual studio 2017\Projects\CSLoginSystem\CSLoginSystem\bin\Debug\CSLoginSystem.exe.config
+c:\users\darcy\documents\visual studio 2017\Projects\CSLoginSystem\CSLoginSystem\bin\Debug\CSLoginSystem.exe
+c:\users\darcy\documents\visual studio 2017\Projects\CSLoginSystem\CSLoginSystem\bin\Debug\CSLoginSystem.pdb
+c:\users\darcy\documents\visual studio 2017\Projects\CSLoginSystem\CSLoginSystem\obj\Debug\CSLoginSystem.csprojResolveAssemblyReference.cache
+c:\users\darcy\documents\visual studio 2017\Projects\CSLoginSystem\CSLoginSystem\obj\Debug\CSLoginSystem.Form1.resources
+c:\users\darcy\documents\visual studio 2017\Projects\CSLoginSystem\CSLoginSystem\obj\Debug\CSLoginSystem.Properties.Resources.resources
+c:\users\darcy\documents\visual studio 2017\Projects\CSLoginSystem\CSLoginSystem\obj\Debug\CSLoginSystem.csproj.GenerateResource.Cache
+c:\users\darcy\documents\visual studio 2017\Projects\CSLoginSystem\CSLoginSystem\obj\Debug\CSLoginSystem.exe
+c:\users\darcy\documents\visual studio 2017\Projects\CSLoginSystem\CSLoginSystem\obj\Debug\CSLoginSystem.pdb
+c:\users\darcy\documents\visual studio 2017\Projects\CSLoginSystem\CSLoginSystem\obj\Debug\CSLoginSystem.Form2.resources
